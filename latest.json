@@ -4,7 +4,7 @@
     "jar": {
         "name": "Avernic-minified.jar",
         "url": "https://github.com/dist-svc-9183/release-bucket/releases/download/v1.0/Avernic-minified.jar",
-        "sha256": "b14796c251416f7f4d353615caaec0ff80cb9fcdfd7dfabb4858c77f50771536",
+        "sha256": "64fd7c12de63b7494bc56c848e1ac336f1526c29985217561077816ca5f37c19",
         "size": 27462293
     }
 }
