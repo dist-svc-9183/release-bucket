@@ -1,10 +1,10 @@
 {
     "channel": "stable",
-    "version": "0.0.0",
+    "version": "0.1",
     "jar": {
-        "name": "Avernic-0.0.0-minified.jar",
-        "url": "https://github.com/dist-svc-9183/release-bucket/releases/download/v0.0.0/Avernic-0.0.0-minified.jar",
-        "sha256": "11ab8c71f07d059a39befe386ec8f583895a2f6e726d1c1b010d8caad95fd7d1",
+        "name": "av-v0.1.jar",
+        "url": "https://github.com/dist-svc-9183/release-bucket/releases/download/v0.1/av-v0.1.jar",
+        "sha256": "de8946a2a866cbd521a1426e8a68e4393fe54ca7a4da46e58b5272833e4fdef8",
         "size": 27462293
     }
 }
