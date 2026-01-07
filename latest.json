@@ -1,10 +1,10 @@
 {
     "channel": "stable",
-    "version": "0.1",
+    "version": "0.2",
     "jar": {
-        "name": "av-v0.1.jar",
-        "url": "https://github.com/dist-svc-9183/release-bucket/releases/download/v0.1/av-v0.1.jar",
-        "sha256": "de8946a2a866cbd521a1426e8a68e4393fe54ca7a4da46e58b5272833e4fdef8",
-        "size": 27462293
+        "name": "av-v0.2.jar",
+        "url": "https://github.com/dist-svc-9183/release-bucket/releases/download/v0.2/av-v0.2.jar",
+        "sha256": "a8dad946cb849aa85f2e9ee0f638183780ec8ab19d84b239e93b0740f7bc573e",
+        "size": 27545546
     }
 }
